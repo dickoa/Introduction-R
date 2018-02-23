@@ -1,6 +1,6 @@
-# Course Title By The Instructor
+# Course Une petite introduction à R
 
-Specs deadline: YYYY-MM-DD
+Specs deadline: 2018-05-25
 
 ## Course development resources
 

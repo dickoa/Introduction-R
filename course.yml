@@ -1,4 +1,4 @@
-title: Course Title Here
-description: A description of the course.
+title: Une petite introduction à R
+description: Il s'agit d'un simple test de la plateforme DataCamp.
 programming_language: r
 from: 'r-base-prod:30'
