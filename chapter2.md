@@ -9,6 +9,7 @@ description : Description chapitre 2
 type: NormalExercise
 lang: r
 xp: 100
+key: b332a8bfb8
 ```
 
 This basic exercise will challenge you to assign a variable in R.
