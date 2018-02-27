@@ -1,6 +1,6 @@
 ---
 title       : Chapitre 2
-description : Description chapitre 2
+description : Exploratory Descriptive Analysis
 ---
 
 ## Interactive Exercise Title
